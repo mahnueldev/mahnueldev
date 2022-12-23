@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahnueldev
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning Fullstack developement with MERN
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me (https://twitter.com/el_mahnuel)
 
